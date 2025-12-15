@@ -1,5 +1,5 @@
-## Hi there 👋
-
+-👋Hi there, my name is Piyaphat.
+-<img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/802ac4c3-1ef6-4681-b831-59b67fc5e3af" />I'm interested in website design and AI development.
 <!--
 **PiyaphatKo/PiyaphatKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
